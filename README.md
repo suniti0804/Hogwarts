@@ -1,1 +1,1 @@
-# Hogwarts
+# Hogwarts School of Witchcraft and Wizardry
