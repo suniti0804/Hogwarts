@@ -1,0 +1,25 @@
+body{
+    background-color: black;
+}
+
+.intro{
+    background-color:#0d6efd;
+    text-align:center;
+    padding:7% 15%;
+
+}
+
+h1{
+    font-size: 3rem;
+    padding-bottom: 7%;
+}
+
+.first-section{
+    padding: 7% 15%;
+    text-align: center;
+}
+
+.btn{
+    padding: 2% 4%;
+    margin: 40px;
+}
